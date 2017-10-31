@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "37286191911",
+    "firebase_url": "https://bitirme-projesi-242da.firebaseio.com",
+    "project_id": "bitirme-projesi-242da",
+    "storage_bucket": "bitirme-projesi-242da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37286191911:android:35196c15d4a156f7",
+        "android_client_info": {
+          "package_name": "wib.aylincelik.bitirmeprojesi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37286191911-u0v6qkfgleebgahtsksbhur6hnm9f3uu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdo5z3HdjCHjDZNmSRDX-Pec-fLbeaMqE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
